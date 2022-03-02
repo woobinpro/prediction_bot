@@ -1,0 +1,12 @@
+{
+  "provider_bsc" : "https://speedy-nodes-nyc.moralis.io/28eb04c22a0f92b22765e175/bsc/mainnet",
+  "address": "",
+  "private_key": "",
+  "target_address": "",
+  "event_time": 100,
+  "gas_limit": 1000000,
+  "default_bet_amount": 0.02,
+  "low_bet_amount": 0.05,
+  "medium_bet_amount": 0.1,
+  "high_bet_amount": 0.2
+}
