@@ -1,5 +1,5 @@
 # prediction_bot
-  This bot is automatic betting bot for pancakeswap prediction and dogebet.
+  This bot is automatic betting bot for pancakeswap prediction and dogebet.<br>
   By analyzing bnb prices across multiple marketplaces to predict bnb prices, this bot can win almost 70% of bets.
 # Installation Env
   linux server, ubuntu
