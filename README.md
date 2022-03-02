@@ -12,5 +12,5 @@
   - high_bet_amount: This value is the amount to bet when the probability of winning is high.
 # Installation
   -  sudo apt install python3-pip  or sudo apt-get install python3.6<br>
-  -  pip3 install -r requirement.txt<br>
+  -  pip3 install -r requirements.txt<br>
   -  python3 pro.py 
